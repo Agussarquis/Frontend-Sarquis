@@ -1,0 +1,53 @@
+.head {
+    background-image: url(https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.head img {
+    height: 150px;
+    margin: 10px 710px;
+}
+
+.titulos {
+    color: #005677;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    font-feature-settings: 'cpsp' on;
+    line-height: 84.69%;
+}
+
+#principal {
+    width: 1440px;
+    height: auto;
+    left: 0px;
+    top: 188px;
+}
+
+#principal h1 {
+    font-size: 35px;
+    line-height: 84.69%;
+    text-align: center;
+}
+
+.secundarios {
+    width: 1440px;
+    height: auto;
+    left: 0px;
+}
+
+.foot {
+    background-color: rgb(120 168 175);
+    height: 100px;
+}
+
+.foot img {
+    height: 50px;
+    width: 50px;
+}
+
+body {
+    background-color: #ffdbad;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
